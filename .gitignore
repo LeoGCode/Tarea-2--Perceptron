@@ -1,0 +1,9 @@
+# Latex auxiliary files
+*.aux
+*.log
+*.fdb_latexmk
+*.fls
+*.synctex.gz
+
+# vscode
+.vscode
